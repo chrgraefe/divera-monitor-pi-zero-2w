@@ -33,4 +33,6 @@ Der Raspberry Pi Zero 2W ist im Oktober 2021 veröffentlicht worden und zum aktu
   - Über HDMI-CEC Befehle an den Monitor senden. (https://de.wikipedia.org/wiki/Consumer_Electronics_Control)
 - Integration eines Bewegungsmelders
 - Begrüßung der Mannschaft mit einer akustischen Meldung
-- Ressourcenschonung durch https://github.com/guysoft/FullPageOS
+- Ressourcenschonung durch 
+  - https://github.com/guysoft/FullPageOS
+  - https://github.com/amodes/Tutorial-Kiosksystem-auf-raspbian-jessie-lite
