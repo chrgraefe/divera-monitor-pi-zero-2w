@@ -36,3 +36,10 @@ Der Raspberry Pi Zero 2W ist im Oktober 2021 veröffentlicht worden und zum aktu
 - Ressourcenschonung durch 
   - https://github.com/guysoft/FullPageOS
   - https://github.com/amodes/Tutorial-Kiosksystem-auf-raspbian-jessie-lite
+
+
+## Linkliste
+
+- https://help.divera247.com/display/FAQ/Hilfe+-+Alarmmonitore
+- https://github.com/mkah91/divera-monitor-pi0w
+- https://github.com/Dustin1358/Raspberry-Pi-Divera-Monitor?tab=readme-ov-file#monitor--und-bildschirm-befehle-hinzuf%C3%BCgen
